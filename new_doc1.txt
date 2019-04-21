@@ -3,3 +3,8 @@ new doc for Ty from Kevin
 with some mods
 
 here is Ty modifying
+
+// kevin wrote some new code
+here is some code
+line 2
+line 3
