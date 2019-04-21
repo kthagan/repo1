@@ -6,5 +6,7 @@ here is Ty modifying
 
 // kevin wrote some new code
 here is some code
-line 2
+line 2 -- fixed a bug
 line 3
+
+COOl!!!!
